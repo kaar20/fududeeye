@@ -2,7 +2,7 @@
     package="com.hormuud.wallet">
    <application
         android:usesCleartextTraffic="true"
-        android:label="hover_sample"
+        android:label="Fududeeye"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
